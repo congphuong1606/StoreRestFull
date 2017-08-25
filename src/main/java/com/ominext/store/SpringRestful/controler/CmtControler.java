@@ -3,7 +3,7 @@ package com.ominext.store.SpringRestful.controler;
 import com.ominext.store.SpringRestful.entity.Cmt;
 import com.ominext.store.SpringRestful.repository.CmtRepository;
 import com.sun.xml.internal.bind.v2.model.core.ID;
-import model.Comment;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.MediaType;
 import org.springframework.stereotype.Controller;
